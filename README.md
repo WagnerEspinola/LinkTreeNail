@@ -1,4 +1,4 @@
-<h1 align="center">Projeto-DevLinks-Nail-Designer-Thaissa</h1>
+<h1 align="center">ProjetoLinkTreeNail</h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projetoLinkTree" src=".github/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -37,7 +37,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Acesse o projeto finalizado, online](https://wagnerespinola.github.io/LinkTreeNail/)
 
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Assistir aulas](https://www.rocketseat.com.br/)
 
 ## 🔖 Layout
 
@@ -50,3 +50,5 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+
+# Projeto_Devlinks
